@@ -7,6 +7,7 @@ import Sales from './components/Sales/Sales.jsx'
 import Purchase from './components/Purchase/Purchase.jsx'
 import Storage from './components/Storage/Storage.jsx'
 import Settings from './components/Settings/Settings.jsx'
+import 'bootstrap/dist/css/bootstrap.min.css'
 import Password from './components/Password/Profile.jsx'
 import Email from './components/Email/Profile.jsx'
 
